@@ -1,0 +1,12 @@
+ .menubtnicon
+{
+    width: 108px !important;
+    height: 48px !important;
+    padding: 4px !important;
+    -webkit-mask-size: 40px 40px !important;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-origin: content;
+    background-size: 100%;
+    /*background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(15, 74, 115, 1)), to(rgba(1,14, 37, 1))) !important;*/
+    background-color: white !important;
+}
